@@ -1,4 +1,5 @@
-/* package br.classe; */
+package br.classe;
+
 
 public class Conta{
   // Nodificador de acesso 

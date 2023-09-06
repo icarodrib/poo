@@ -1,4 +1,4 @@
-/* import br.classe.*; */
+import br.classe.Conta;
 
 class Main {
   public static void main(String[] args) {
