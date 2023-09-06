@@ -25,25 +25,25 @@ class Main {
     System.out.println("titular[c1]: " + c1.titular);
     System.out.println("saldo[c1]: " + c1.saldo);
 
-    System.out.println("Numero[c2]: " + c2.numero);
+    System.out.println("\nNumero[c2]: " + c2.numero);
     System.out.println("titular[c2]: " + c2.titular);
     System.out.println("saldo[c2]: " + c2.saldo);
 
-    System.out.println("Numero[c3]: " + c3.numero);
+    System.out.println("\nNumero[c3]: " + c3.numero);
     System.out.println("titular[c3]: " + c3.titular);
-    System.out.println("saldo[c3]: " + c3.saldo);
+    System.out.println("saldo[c3]: " + c3.saldo + "\n");
 
     System.out.println(c2 == c3);
     System.out.println(c2);
-    System.out.println(c3);
+    System.out.println(c3 + "\n");
 
     System.out.println(c1 == c4);
     System.out.println(c1);
-    System.out.println(c4);
+    System.out.println(c4 + "\n");
 
     c4.titular = "Marcio";
     System.out.println(c1.titular);
-    System.out.println(c4.titular);
+    System.out.println(c4.titular + "\n");
 
     // Deposito na conta c1
 
